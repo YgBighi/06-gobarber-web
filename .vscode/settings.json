@@ -1,0 +1,25 @@
+{
+  "workbench.colorTheme": "Dracula",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+  "breadcrumbs.enabled": true,
+  "editor.minimap.enabled": true,
+  "window.menuBarVisibility": "default",
+  "editor.tabSize": 2,
+  "eslint.format.enable": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true,
+    "source.fixAll.eslint": false
+  },
+  // Eslint Prettier
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false,
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false,
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+}
